@@ -1,0 +1,240 @@
+2024-05-23 19:14:40,907:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-23 19:14:40,907:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-23 19:14:40,907:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-23 19:14:40,907:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-23 19:15:26,957:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-23 19:15:26,957:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-23 19:15:26,957:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-23 19:15:26,957:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-23 19:22:54,187:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:425: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr1, tpr1, 'b', label = dnn_type1+' = %0.3f' % roc_auc1, color='g')
+
+2024-05-23 19:22:54,190:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:426: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr2, tpr2, 'b', label = dnn_type2+' = %0.3f' % roc_auc2, color='b')
+
+2024-05-23 19:22:54,190:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:427: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr3, tpr3, 'b', label = dnn_type3+' = %0.3f' % roc_auc3, color='r')
+
+2024-05-23 19:22:54,421:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:456: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall1, precision1, 'b', label = dnn_type1+' = %0.3f' % pr_auc1, color='g')
+
+2024-05-23 19:22:54,422:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:457: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall2, precision2, 'b', label = dnn_type2+' = %0.3f' % pr_auc2, color='b')
+
+2024-05-23 19:22:54,423:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:458: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall3, precision3, 'b', label = dnn_type3+' = %0.3f' % pr_auc3, color='r')
+
+2024-05-23 19:27:20,420:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:425: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr1, tpr1, 'b', label = dnn_type1+' = %0.3f' % roc_auc1, color='g')
+
+2024-05-23 19:27:20,421:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:426: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr2, tpr2, 'b', label = dnn_type2+' = %0.3f' % roc_auc2, color='b')
+
+2024-05-23 19:27:20,422:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:427: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr3, tpr3, 'b', label = dnn_type3+' = %0.3f' % roc_auc3, color='r')
+
+2024-05-23 19:27:20,659:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:456: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall1, precision1, 'b', label = dnn_type1+' = %0.3f' % pr_auc1, color='g')
+
+2024-05-23 19:27:20,659:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:457: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall2, precision2, 'b', label = dnn_type2+' = %0.3f' % pr_auc2, color='b')
+
+2024-05-23 19:27:20,660:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:458: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall3, precision3, 'b', label = dnn_type3+' = %0.3f' % pr_auc3, color='r')
+
+2024-05-23 19:28:19,842:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-23 19:28:19,842:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-23 19:28:19,842:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-23 19:28:19,842:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-24 01:00:38,887:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:425: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr1, tpr1, 'b', label = dnn_type1+' = %0.3f' % roc_auc1, color='g')
+
+2024-05-24 01:00:38,887:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:426: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr2, tpr2, 'b', label = dnn_type2+' = %0.3f' % roc_auc2, color='b')
+
+2024-05-24 01:00:38,888:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:427: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr3, tpr3, 'b', label = dnn_type3+' = %0.3f' % roc_auc3, color='r')
+
+2024-05-24 01:00:39,116:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:456: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall1, precision1, 'b', label = dnn_type1+' = %0.3f' % pr_auc1, color='g')
+
+2024-05-24 01:00:39,116:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:457: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall2, precision2, 'b', label = dnn_type2+' = %0.3f' % pr_auc2, color='b')
+
+2024-05-24 01:00:39,117:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:458: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall3, precision3, 'b', label = dnn_type3+' = %0.3f' % pr_auc3, color='r')
+
+2024-05-24 01:00:39,347:WARNING:/home/yangx/anaconda3/envs/keras_3.0/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2024-05-27 12:42:51,005:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:425: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr1, tpr1, 'b', label = dnn_type1+' = %0.3f' % roc_auc1, color='g')
+
+2024-05-27 12:42:51,005:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:426: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr2, tpr2, 'b', label = dnn_type2+' = %0.3f' % roc_auc2, color='b')
+
+2024-05-27 12:42:51,005:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:427: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr3, tpr3, 'b', label = dnn_type3+' = %0.3f' % roc_auc3, color='r')
+
+2024-05-27 12:42:51,256:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:456: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall1, precision1, 'b', label = dnn_type1+' = %0.3f' % pr_auc1, color='g')
+
+2024-05-27 12:42:51,257:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:457: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall2, precision2, 'b', label = dnn_type2+' = %0.3f' % pr_auc2, color='b')
+
+2024-05-27 12:42:51,258:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:458: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall3, precision3, 'b', label = dnn_type3+' = %0.3f' % pr_auc3, color='r')
+
+2024-05-27 12:42:51,508:WARNING:/home/yangx/anaconda3/envs/keras_3.0/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2024-05-27 14:06:26,483:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:425: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr1, tpr1, 'b', label = dnn_type1+' = %0.3f' % roc_auc1, color='g')
+
+2024-05-27 14:06:26,484:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:426: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr2, tpr2, 'b', label = dnn_type2+' = %0.3f' % roc_auc2, color='b')
+
+2024-05-27 14:06:26,485:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:427: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr3, tpr3, 'b', label = dnn_type3+' = %0.3f' % roc_auc3, color='r')
+
+2024-05-27 14:06:26,734:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:456: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall1, precision1, 'b', label = dnn_type1+' = %0.3f' % pr_auc1, color='g')
+
+2024-05-27 14:06:26,735:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:457: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall2, precision2, 'b', label = dnn_type2+' = %0.3f' % pr_auc2, color='b')
+
+2024-05-27 14:06:26,737:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:458: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall3, precision3, 'b', label = dnn_type3+' = %0.3f' % pr_auc3, color='r')
+
+2024-05-27 14:21:03,288:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:425: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr1, tpr1, 'b', label = dnn_type1+' = %0.3f' % roc_auc1, color='g')
+
+2024-05-27 14:21:03,289:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:426: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr2, tpr2, 'b', label = dnn_type2+' = %0.3f' % roc_auc2, color='b')
+
+2024-05-27 14:21:03,289:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:427: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr3, tpr3, 'b', label = dnn_type3+' = %0.3f' % roc_auc3, color='r')
+
+2024-05-27 14:21:03,513:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:456: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall1, precision1, 'b', label = dnn_type1+' = %0.3f' % pr_auc1, color='g')
+
+2024-05-27 14:21:03,514:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:457: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall2, precision2, 'b', label = dnn_type2+' = %0.3f' % pr_auc2, color='b')
+
+2024-05-27 14:21:03,515:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:458: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall3, precision3, 'b', label = dnn_type3+' = %0.3f' % pr_auc3, color='r')
+
+2024-05-27 14:21:13,131:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:425: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr1, tpr1, 'b', label = dnn_type1+' = %0.3f' % roc_auc1, color='g')
+
+2024-05-27 14:21:13,131:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:426: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr2, tpr2, 'b', label = dnn_type2+' = %0.3f' % roc_auc2, color='b')
+
+2024-05-27 14:21:13,132:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:427: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr3, tpr3, 'b', label = dnn_type3+' = %0.3f' % roc_auc3, color='r')
+
+2024-05-27 14:21:13,350:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:456: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall1, precision1, 'b', label = dnn_type1+' = %0.3f' % pr_auc1, color='g')
+
+2024-05-27 14:21:13,351:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:457: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall2, precision2, 'b', label = dnn_type2+' = %0.3f' % pr_auc2, color='b')
+
+2024-05-27 14:21:13,351:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:458: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall3, precision3, 'b', label = dnn_type3+' = %0.3f' % pr_auc3, color='r')
+
+2024-05-27 14:21:40,832:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:425: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr1, tpr1, 'b', label = dnn_type1+' = %0.3f' % roc_auc1, color='g')
+
+2024-05-27 14:21:40,833:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:426: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr2, tpr2, 'b', label = dnn_type2+' = %0.3f' % roc_auc2, color='b')
+
+2024-05-27 14:21:40,833:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:427: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr3, tpr3, 'b', label = dnn_type3+' = %0.3f' % roc_auc3, color='r')
+
+2024-05-27 14:21:41,056:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:456: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall1, precision1, 'b', label = dnn_type1+' = %0.3f' % pr_auc1, color='g')
+
+2024-05-27 14:21:41,057:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:457: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall2, precision2, 'b', label = dnn_type2+' = %0.3f' % pr_auc2, color='b')
+
+2024-05-27 14:21:41,058:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:458: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall3, precision3, 'b', label = dnn_type3+' = %0.3f' % pr_auc3, color='r')
+
+2024-05-27 14:21:41,308:WARNING:/home/yangx/anaconda3/envs/keras_3.0/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2024-05-27 14:21:41,374:WARNING:<ipython-input-14-640251761411>:53: UserWarning: The palette list has more values (12) than needed (6), which may not be intended.
+  fig = sns.barplot(x ="Models", y = 'Performance', data = self.metrics_df, hue = "Metrics",palette=sns.color_palette("Paired"))
+
+2024-05-27 14:21:41,417:WARNING:<ipython-input-14-640251761411>:56: UserWarning: FixedFormatter should only be used together with FixedLocator
+  fig.set_xticklabels( ["AUROC","AUPRC","Precision","Recall","F1_Score","MCC"], fontsize=14,weight='bold')
+
+2024-05-27 14:21:41,417:WARNING:<ipython-input-14-640251761411>:57: UserWarning: FixedFormatter should only be used together with FixedLocator
+  fig.set_yticklabels([0,0.2,0.4,0.6,0.8,1.0], fontsize=14,weight='bold')
+
+2024-05-27 14:23:01,091:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:425: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr1, tpr1, 'b', label = dnn_type1+' = %0.3f' % roc_auc1, color='g')
+
+2024-05-27 14:23:01,091:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:426: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr2, tpr2, 'b', label = dnn_type2+' = %0.3f' % roc_auc2, color='b')
+
+2024-05-27 14:23:01,092:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:427: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(fpr3, tpr3, 'b', label = dnn_type3+' = %0.3f' % roc_auc3, color='r')
+
+2024-05-27 14:23:01,312:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:456: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall1, precision1, 'b', label = dnn_type1+' = %0.3f' % pr_auc1, color='g')
+
+2024-05-27 14:23:01,313:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:457: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall2, precision2, 'b', label = dnn_type2+' = %0.3f' % pr_auc2, color='b')
+
+2024-05-27 14:23:01,313:WARNING:/home/yangx/DeepSELEX/DeepApta/script/model.py:458: UserWarning: color is redundantly defined by the 'color' keyword argument and the fmt string "b" (-> color=(0.2980392156862745, 0.4470588235294118, 0.6901960784313725, 1)). The keyword argument will take precedence.
+  plt.plot(recall3, precision3, 'b', label = dnn_type3+' = %0.3f' % pr_auc3, color='r')
+
+2024-05-27 14:23:01,554:WARNING:/home/yangx/anaconda3/envs/keras_3.0/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+
+2024-05-27 14:23:01,580:WARNING:<ipython-input-16-1f2218eff186>:53: UserWarning: The palette list has more values (12) than needed (6), which may not be intended.
+  fig = sns.barplot(x ="Models", y = 'Performance', data = self.metrics_df, hue = "Metrics",palette=sns.color_palette("Paired"))
+
+2024-05-27 14:23:01,618:WARNING:<ipython-input-16-1f2218eff186>:56: UserWarning: FixedFormatter should only be used together with FixedLocator
+  fig.set_xticklabels( ["CNN","BiLSTM","CNN-BiLSTM"], fontsize=14,weight='bold')
+
+2024-05-27 14:23:01,618:WARNING:<ipython-input-16-1f2218eff186>:57: UserWarning: FixedFormatter should only be used together with FixedLocator
+  fig.set_yticklabels([0,0.2,0.4,0.6,0.8,1.0], fontsize=14,weight='bold')
+
+2024-05-27 15:11:52,556:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 15:11:52,556:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 15:11:52,556:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 15:11:52,556:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 15:18:59,658:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 15:18:59,658:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 15:18:59,658:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 15:18:59,658:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 15:43:50,138:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 15:43:50,139:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 15:43:50,139:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-27 15:43:50,139:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
