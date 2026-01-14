@@ -1,3 +1,3 @@
 # DeepAptamer
 DeepAptamer: SELEX-based Aptamer Affinity Prediction by Hybrid Deep Learning
-![Untitled (1)](https://github.com/user-attachments/assets/4491a891-d4ba-4854-937e-fb2f617a7e6b)
+![1-s2 0-S2162253124003238-fx1_lrg](https://github.com/user-attachments/assets/68083cd3-62a5-4db7-b38c-ce6c4fec0e3f)
